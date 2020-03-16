@@ -13,7 +13,6 @@ The *node2vec* algorithm learns continuous representations for nodes in any (un)
 **In order to build node2vec_spark, use the following:**
 
 ```
-$ git clone https://github.com/QuanLab/node2vec-spark.git
 $ sbt clean assembly
 ```
 
